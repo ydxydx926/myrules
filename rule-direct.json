@@ -21,6 +21,7 @@
       ],
       "domain_suffix": [
         "dash.cloudflare.com",
+        "workers.cloudflare.com",
         "cloudflare.com",
         "waterfox.net",
         "bulianglin.com",
